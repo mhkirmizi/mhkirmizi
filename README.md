@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Mehmet Kirmizi
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Visualization & ML
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I am Mehmet Kirmizi, Ph.D.
+- 👀 I am a Data Scientist
+-  🌱 I’m a VIS enthuastic
 - 📫 How to reach me mhkirmizi@gmail.com
 - 😄 Pronouns: He/Hi
 
