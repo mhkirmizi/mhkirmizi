@@ -2,7 +2,7 @@
 - 👀 I am a Data Scientist
 -  🌱 I’m a VIS enthuastic
 - 📫 How to reach me mhkirmizi@gmail.com
-- 😄 Pronouns: He/Hi
+- 😄 Pronouns: He/Him
 
 <!---
 mhkirmizi/mhkirmizi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
