@@ -1,6 +1,6 @@
 - 👋 Hi, I am Mehmet Kirmizi, Ph.D.
 - 👀 I am a Data Scientist
-- I love SNA (igraph, tidygraph)
+- I love SNA my favorite packages are: (igraph, ggraph, tidygraph,visNetwork)
 - Currently advancing my skills in mlr3verse
 -  🌱 I’m a VIS enthusiastic
 - 📫 How to reach me mhkirmizi@gmail.com
