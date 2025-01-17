@@ -1,7 +1,7 @@
 - 👋 Hi, I am Mehmet Kirmizi, Ph.D.
 - 👀 I am a Data Scientist
 - I love SNA &  my favorite R packages for SNA are: (igraph, ggraph, graphlayouts, visNetwork)
-- Currently advancing my skills in mlr3verse
+- Currently advancing my skills in H2o
 -  🌱 I’m a VIS enthusiastic
 - 📫 How to reach me mhkirmizi@gmail.com
 - 😄 Pronouns: He/Him
