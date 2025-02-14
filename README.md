@@ -2,7 +2,7 @@
 - 👀 I am a Data Scientist
 - I love SNA &  my favorite R packages for SNA are: (igraph, ggraph, graphlayouts, visNetwork)
 - Currently advancing my skills in H2o
-- good understanding of MySQL and PostgreSQL
+- Good understanding of MySQL and PostgreSQL
 -  🌱 I’m a VIS enthusiastic
 - 📫 How to reach me mhkirmizi@gmail.com
 - 😄 Pronouns: He/Him
