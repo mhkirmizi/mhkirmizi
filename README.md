@@ -1,6 +1,7 @@
 - 👋 Hi, I am Mehmet Kirmizi, Ph.D.
 - 👀 I am a Data Scientist
-- I love SNA &  my favorite R packages for SNA are: (igraph, ggraph, graphlayouts, visNetwork)
+- Python: Pandas, Numpy, Plotly, Dash,
+- R: tidyverse, ggraph extension, 
 - Currently advancing my skills in H2o
 - Good understanding of MySQL and PostgreSQL
 -  🌱 I’m a VIS enthusiastic
