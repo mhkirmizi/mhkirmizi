@@ -1,7 +1,7 @@
 - 👋 Hi, I am Mehmet Kirmizi, Ph.D.
 - 👀 I am a Data Scientist
 - Python: Pandas, Numpy, Plotly, Dash,
-- R: tidyverse, ggraph extension, 
+- R: tidyverse, gplot2 and its extension, 
 - Currently advancing my skills in H2o
 - Good understanding of MySQL and PostgreSQL
 -  🌱 I’m a VIS enthusiastic
